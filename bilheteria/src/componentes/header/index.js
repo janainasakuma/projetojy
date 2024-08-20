@@ -4,7 +4,7 @@ import './style.css';
 const Header = () => {
     return (
         <Header>
-            <div className='Header center'>
+            <div className='header center'>
                 <picture>
                     <img src='./assets/logo.png' alt='logo otica'/>
                 </picture>
