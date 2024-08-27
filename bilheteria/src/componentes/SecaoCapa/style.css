@@ -1,0 +1,7 @@
+.secao-capa {
+    background-image: url('/public/assets/capa.jpg');
+    height: 80vh;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
