@@ -5,3 +5,29 @@
     background-position: center;
     background-size: cover;
 }
+
+
+.capa {
+    width: 100%;
+    height: 100%;
+    display: flex;
+    gap: 20px;
+    justify-content: center;
+    color: aliceblue;
+}
+
+.texto-capa {
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+    max-width: 500px;
+}
+
+.texto-capa p,
+.texto-capa h1 {
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.texto-capa h1 {
+    font-size: 3rem;
+}
