@@ -3,7 +3,7 @@ import './style.css';
 
 const Header = () => {
     return (
-        <Header>
+        <header>
             <div className='header center'>
                 <picture>
                     <img src='./assets/logo.png' alt='logo otica'/>
@@ -25,7 +25,7 @@ const Header = () => {
                     </ul>
                 </nav>
             </div>
-        </Header>
+        </header>
     )
 }
 

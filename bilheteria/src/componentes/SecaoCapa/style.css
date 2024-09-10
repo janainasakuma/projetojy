@@ -30,4 +30,47 @@
 
 .texto-capa h1 {
     font-size: 3rem;
+    text-transform: uppercase;
+    letter-spacing: 5px;
+}
+
+.texto-capa p{
+    font-size: 1.5rem;
+    color: #3e3e3e;
+}
+
+/*media query*/
+
+@media (max-width: 768px) {
+    .capa {
+        justify-content: flex-start;
+    }
+
+    .texto-capa {
+        margin-top: 160px;
+        max-width: 350px;
+    }
+
+    .texto-capa h1 {
+        font-size: 2rem;
+    }
+
+    .texto-capa p {
+        font-size: 1.5rem;
+    }
+}
+
+@media (max-width: 500px) {
+    .capa {
+        background-position: 50%;
+    }
+    .texto-capa {
+        max-width: 300px;
+    }
+    .texto-capa p {
+        font-size: 1rem;
+    }
+    .texto-capa h1 {
+        font-size: 1.5rem;
+    }
 }

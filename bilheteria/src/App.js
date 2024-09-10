@@ -1,3 +1,4 @@
+import React from 'react';
 import './App.css';
 import Header from './componentes/Header';
 import SecaoCapa from './componentes/SecaoCapa';
