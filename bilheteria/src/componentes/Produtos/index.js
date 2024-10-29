@@ -49,16 +49,6 @@ const Produtos = () => {
                     </div>
                 </div>
             </div>
-
-            <div className="lista-oculos center">
-                <p>Todos os nossos produtos incluem:</p>
-                <ul>
-                    <li>Garantia</li>
-                    <li>Proteção</li>
-                    <li>Descontos</li>
-                    <li>Durabilidade</li>
-                </ul>
-            </div>
         </section>
     )
 }
