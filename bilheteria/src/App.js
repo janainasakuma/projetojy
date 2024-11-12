@@ -3,7 +3,7 @@ import './App.css';
 import Header from './componentes/Header';
 import SecaoCapa from './componentes/SecaoCapa';
 import Produtos from './componentes/Produtos';
-import SecaoSobre from '.componentes/Sobre';
+import SecaoSobre from './componentes/SecaoSobre';
 
 function App() {
   return (
