@@ -6,13 +6,13 @@ const Header = () => {
         <header>
             <div className='header center'>
                 <picture>
-                    <img src='./assets/logo.png' alt='logo otica'/>
+                    <img src='./assets/LOGOTS.png' alt='logo otica'/>
                 </picture>
 
                 <nav>
                     <ul>
                         <li>
-                            <a href='#'>Produtos</a>
+                            <a href='#'>Valores</a>
                         </li>
 
                         <li>
@@ -20,7 +20,7 @@ const Header = () => {
                         </li>
 
                         <li>
-                            <a href='#'>Contatos</a>
+                            <a href='#'>Cadastro</a>
                         </li>
                     </ul>
                 </nav>

@@ -5,19 +5,14 @@ const Produtos = () => {
     return (
         <section id="produtos">
             <div className="secao-produtos center">
-            <h2 className="titulos">NOSSOS PRODUTOS</h2>
-            <p>
-                Trabalhamos com óculos de grau, óculos de sol, 
-                lentes transitions nos modelos masculinos, femininos e infantis.
+            <h2 className="titulos">COMO FUNCIONA</h2>
+            <p className="paragrafo">
+            Se o motorista localizar a Truck Stop, é preciso ele se dirigir ao local e se nao tiver cadastro, ira fazer com nossa recepcionista, pratico e rapido, se ele tem o cadastro, apenas dira lo e escolhera sua diaria, ou se quiser, podera dar uma olhada nos nossos pacotes fidelidade.
             </p>
-
-            <p>
-                Todos os nossos preços são acessíveis e contam com a 
-                melhor qualidade do mercado.
-            </p>
+            <h2 className="titulos">VALORES</h2>
             <div className="oculos-img">
                 <div className="card-oculos">
-                    <h3>Óculos de Grau</h3>
+                    <h3>Plano Premium</h3>
                     <picture>
                         <img src="./assets/oculos01.png" alt="Óculos de grau"></img>
                     </picture>
@@ -25,7 +20,7 @@ const Produtos = () => {
                 </div>
 
                 <div className="card-oculos">
-                    <h3>Óculos Transition</h3>
+                    <h3>Anual</h3>
                     <picture>
                         <img src="./assets/oculos02.png" alt="Óculos de grau"></img>
                     </picture>
@@ -33,7 +28,7 @@ const Produtos = () => {
                 </div>
 
                 <div className="card-oculos">
-                    <h3>Óculos de Sol</h3>
+                    <h3>6 Meses</h3>
                     <picture>
                         <img src="./assets/oculos03.png" alt="Óculos de grau"></img>
                     </picture>
@@ -41,7 +36,7 @@ const Produtos = () => {
                 </div>
 
                 <div className="card-oculos">
-                    <h3>Óculos Infantil</h3>
+                    <h3>Diária</h3>
                     <picture>
                         <img src="./assets/oculos04.png" alt="Óculos de grau"></img>
                     </picture>

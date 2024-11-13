@@ -6,7 +6,8 @@ const SecaoSobre = () => {
     <section id='sobre'>
         <div className='sobre center'>
             <h2>SOBRE NÓS</h2>
-                <p>fundada em 2001, em caraguatatuba - Sâo Paulo, a otica iniciou ...</p>
+                <p>A Truck Stop foi criada por nós, quatro estudantes do IFSP Caraguatatuba, com o objetivo de reduzir os acidentes envolvendo caminhões no Brasil. Sabemos que muitos desses acidentes poderiam ser evitados com pausas adequadas para descanso e reabastecimento dos motoristas, garantindo que eles estejam mais atentos e descansados durante as viagens.
+</p>
         
 
         <div className='elementos-sobre'>
@@ -24,9 +25,9 @@ const SecaoSobre = () => {
         </div>
 
         <div className='sobre-elementos'>
-            <h4>ATENDIMENTO FLEXÍVEL</h4>
+            <h4>NOSSA MISSÃO</h4>
             <p>
-                Nossa equipe é treinada para te atender da melhor forma possível
+                Nossa missão é oferecer espaços seguros e confortáveis para que os motoristas possam descansar, reabastecer e seguir suas jornadas com mais segurança e bem-estar. A Truck Stop é uma solução pensada para proteger vidas e melhorar a qualidade de vida de quem está nas estradas.
             </p>
             </div>
         
