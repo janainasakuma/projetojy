@@ -4,13 +4,14 @@ import './style.css';
 const Header = () => {
     return (
         <header>
-            <div className='header center'>
+                    
+            <div className='header-center'>
                 <picture>
                     <img src='./assets/LOGOTS.png' alt='logo otica'/>
                 </picture>
 
                 <nav>
-                    <ul>
+                 <ul>
                         <li>
                             <a href='#'>Valores</a>
                         </li>

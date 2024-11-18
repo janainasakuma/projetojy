@@ -1,29 +1,45 @@
 #produtos {
+    font-family: "Inter", sans-serif;
+    font-optical-sizing: auto;
     display: flex;
     flex-wrap: wrap;
     justify-content: center;
     align-items: baseline;
-    max-width: 1024px;
     margin: 0 auto;
+    background-color: BLACK;
 }
 
 .secao-produtos {
+    font-family: "Inter", sans-serif;
+    font-optical-sizing: auto;
     text-align: center;
     margin-top: 50px;
     margin-bottom: 25px;
 }
 
 .secao-produtos p {
+    font-family: "Inter", sans-serif;
+    font-optical-sizing: auto;
+    font-style: italic;
     font-size: 1.4rem;
+    color: white;
 }
 
 .titulos {
+    font-family: "Inter", sans-serif;
+    font-optical-sizing: auto;
     margin-bottom: 25px;
     font-size: 2.5rem;
+    color: white;
 }
 
 .paragrafo {
+    font-family: "Inter", sans-serif;
+    font-optical-sizing: auto;
+    font-style: italic;
     margin-bottom: 25px;
+    color: white;
+
 }
 
 .oculos-img {
@@ -47,13 +63,21 @@
     display: flex;
     flex-direction: column;
     justify-content: space-between;
+    background-color: #AD9C8C;
 }
 
 .card-oculos h3 {
+    font-family: "Inter", sans-serif;
+    font-optical-sizing: auto;
     font-size: 2rem;
+    color: white;
+    font-style:italic;
 }
 
 .card-oculos p {
+    font-family: "Inter", sans-serif;
+    font-optical-sizing: auto;
+    font-style: italic;
     font-weight: 600px;
     font-size: 1.25rem;
 }
@@ -68,6 +92,9 @@
 }
 
 .lista-oculos p {
+    font-family: "Inter", sans-serif;
+    font-optical-sizing: auto;
+    font-style: italic;
     font-weight: 600;
     font-size: 1.1rem;
     margin-bottom: 25px;
