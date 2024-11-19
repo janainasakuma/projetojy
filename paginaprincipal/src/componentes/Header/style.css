@@ -13,7 +13,7 @@
     display: flex;
     justify-content: center;
     align-items: center;
-    max-width: 150px;
+    max-width: 200px;
 }
 
 .header-center nav {
@@ -54,6 +54,9 @@
 }
 
 @media(max-width: 480px){
+    .header-center picture {
+        max-width:150px;
+    }
     .header-center {
         justify-content: center;
     }
@@ -63,6 +66,7 @@
     }
 
     .header-center nav ul li a {
+        font-size:15px;
         padding: 3px 6px;
         background: #f7f7f7;
         border-radius: 5px;

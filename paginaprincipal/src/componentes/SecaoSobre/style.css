@@ -44,4 +44,24 @@
     color: #4a4a4a;
   }
 
+  /*Media query*/
+  #sobre {
+    padding: 50px 0px;
+}
+
+.sobre h2 {
+    font-size: 2rem;
+}
+
+.sobre p {
+  font-size: 1rem;
+}
+
+.sobre-elementos h4 {
+  font-size: 1.5rem;
+}
+
+@media (max-width: 520px) {
+  
+}
 
